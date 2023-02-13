@@ -1,7 +1,8 @@
 // notice the squiggles?
 // notice the problems tab in the terminal?
 
-var a = 4; // why the squiggle?
+let a = 4; // why the squiggle?
+let name = 'Jordan';
 // try using double quotes here
 // try leaving a semicolon off
 
