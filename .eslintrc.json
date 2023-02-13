@@ -8,8 +8,6 @@
         "prettier",
         "unicorn"
     ],
-    // https://eslint.org/docs/latest/rules/
-    // https://github.com/sindresorhus/eslint-plugin-unicorn#rules
     "rules": { 
         "no-console": "off",
         "no-var": "error",
